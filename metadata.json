@@ -1,0 +1,9 @@
+{
+  "name": "Synapse Voice - AI Second Brain",
+  "description": "Capture fleeting thoughts while driving, walking, or cooking. Synapse transcribes, tags, and intelligently resurfaces forgotten notes right when you're working on something related.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
